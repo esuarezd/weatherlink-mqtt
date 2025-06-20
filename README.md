@@ -66,7 +66,10 @@ Este proyecto está licenciado bajo los términos de la [Licencia Apache 2.0](LI
 
 ## Autor
 
-Edison Suárez Ducón
+Edison Suárez Ducón 
+e.suarezd at uniandes.edu.co
+Facultad de ingenieria
+Universidad de los Andes
 
 ---
 
